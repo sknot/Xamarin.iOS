@@ -1,0 +1,13 @@
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\bin\iPhoneSimulator\Debug\TabBarExample.exe
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\bin\iPhoneSimulator\Debug\TabBarExample.pdb
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\optimized\
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\TabBarExample.csproj.CoreCompileInputs.cache
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\TabBarExample.exe
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\TabBarExample.pdb
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\optimized\Youtube_1x.png
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\optimized\Whatsapps_1x.png
+C:\DATA\TeamFundationServer\Xamarin\TabBarExample\TabBarExample\obj\iPhoneSimulator\Debug\optimized\Facebook_1x.png

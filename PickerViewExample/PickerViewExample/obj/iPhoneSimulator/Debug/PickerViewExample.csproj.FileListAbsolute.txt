@@ -1,0 +1,11 @@
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\bin\iPhoneSimulator\Debug\PickerViewExample.exe
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\bin\iPhoneSimulator\Debug\PickerViewExample.pdb
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\optimized\
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\PickerViewExample.csprojResolveAssemblyReference.cache
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\PickerViewExample.csproj.CoreCompileInputs.cache
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\PickerViewExample.exe
+C:\DATA\TeamFundationServer\Xamarin\PickerViewExample\PickerViewExample\obj\iPhoneSimulator\Debug\PickerViewExample.pdb

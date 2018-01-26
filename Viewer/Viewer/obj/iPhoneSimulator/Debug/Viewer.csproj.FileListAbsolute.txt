@@ -1,0 +1,11 @@
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\bin\iPhoneSimulator\Debug\Viewer.exe
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\bin\iPhoneSimulator\Debug\Viewer.pdb
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\optimized\
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\Viewer.csprojResolveAssemblyReference.cache
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\Viewer.csproj.CoreCompileInputs.cache
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\Viewer.exe
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\Viewer.pdb
+C:\DATA\TeamFundationServer\Xamarin\Viewer\Viewer\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist

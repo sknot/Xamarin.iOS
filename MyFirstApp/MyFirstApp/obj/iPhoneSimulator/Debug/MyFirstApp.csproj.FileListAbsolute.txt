@@ -1,0 +1,11 @@
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\bin\iPhoneSimulator\Debug\MyFirstApp.exe
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\bin\iPhoneSimulator\Debug\MyFirstApp.pdb
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\optimized\
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\MyFirstApp.exe
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\MyFirstApp.pdb
+C:\DATA\TeamFundationServer\Xamarin\MyFirstApp\MyFirstApp\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist

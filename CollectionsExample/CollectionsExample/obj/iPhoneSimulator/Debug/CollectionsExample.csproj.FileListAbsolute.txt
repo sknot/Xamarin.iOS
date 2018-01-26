@@ -1,0 +1,11 @@
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\bin\iPhoneSimulator\Debug\CollectionsExample.exe
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\bin\iPhoneSimulator\Debug\CollectionsExample.pdb
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\optimized\
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\CollectionsExample.csprojResolveAssemblyReference.cache
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\CollectionsExample.csproj.CoreCompileInputs.cache
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\CollectionsExample.exe
+C:\DATA\TeamFundationServer\Xamarin\CollectionsExample\CollectionsExample\obj\iPhoneSimulator\Debug\CollectionsExample.pdb
